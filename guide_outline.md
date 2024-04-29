@@ -1,33 +1,33 @@
-= CompTIA A+ =
-== 220-1101 & 220-1102 ==
-- Chapter 1: Safety and Professionalism
-- Chapter 2: The Visible Computer
-- Chapter 3: CPUs
-- Chapter 4: RAM
-- Chapter 5: Firmware
-- Chapter 6: Motherboards
-- Chapter 7: Power Supplies
-- Chapter 8: Mass Storage Technologies
-- Chapter 9: Implementing Mass Storage
-- Chapter 10: Essential Peripherals
-- Chapter 11: Installing and Upgrading Operating Systems
-- Chapter 12: Working with Operating Systems
-- Chapter 13: Users, Groups, and Permissions
-- Chapter 14: Maintaining and Optimizing Operating Systems
-- Chapter 15: Working with the Command-Line Interface
-- Chapter 16: Troubleshooting Operating Systems
-- Chapter 17: Display Technologies
-- Chapter 18: Essentials of Networking
-- Chapter 19: Local Area Networking
-- Chapter 20: Wireless Networking
-- Chapter 21: The Internet
-- Chapter 22: Virtualization
-- Chapter 23: Portable Computing
-- Chapter 24: Mobile Devices
-- Chapter 25: Maintaining and Securing Mobile Devices
-- Chapter 26: Printers and Multifunction Devices
-- Chapter 27: Securing Computers
-- Chapter 28: Operational Procedures
-- Appendix A: Mapping to the CompTIA A+ Objectives
-- Appendix B: About the Online Content
-- Glossary
+# CompTIA A+
+## 220-1101 & 220-1102 
+- ### Chapter 1: Safety and Professionalism
+- ### Chapter 2: The Visible Computer
+- ### Chapter 3: CPUs
+- ### Chapter 4: RAM
+- ### Chapter 5: Firmware
+- ### Chapter 6: Motherboards
+- ### Chapter 7: Power Supplies
+- ### Chapter 8: Mass Storage Technologies
+- ### Chapter 9: Implementing Mass Storage
+- ### Chapter 10: Essential Peripherals
+- ### Chapter 11: Installing and Upgrading Operating Systems
+- ### Chapter 12: Working with Operating Systems
+- ### Chapter 13: Users, Groups, and Permissions
+- ### Chapter 14: Maintaining and Optimizing Operating Systems
+- ### Chapter 15: Working with the Command-Line Interface
+- ### Chapter 16: Troubleshooting Operating Systems
+- ### Chapter 17: Display Technologies
+- ### Chapter 18: Essentials of Networking
+- ### Chapter 19: Local Area Networking
+- ### Chapter 20: Wireless Networking
+- ### Chapter 21: The Internet
+- ### Chapter 22: Virtualization
+- ### Chapter 23: Portable Computing
+- ### Chapter 24: Mobile Devices
+- ### Chapter 25: Maintaining and Securing Mobile Devices
+- ### Chapter 26: Printers and Multifunction Devices
+- ### Chapter 27: Securing Computers
+- ### Chapter 28: Operational Procedures
+- ### Appendix A: Mapping to the CompTIA A+ Objectives
+- ### Appendix B: About the Online Content
+- ### Glossary
