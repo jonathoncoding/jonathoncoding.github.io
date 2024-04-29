@@ -1,6 +1,20 @@
 # CompTIA A+
 ## 220-1101 & 220-1102 
 - ### Chapter 1: Safety and Professionalism
+- Question 1. Which of the following would be most appropriate for the workplace? (Select two)
+  - A. Clean, pressed khaki trousers.
+  - B. Clean, wrinkle-free T-shirt.
+  - C. Clean, wrinkle-free polo shirt.
+  - D. Clean, pressed jeans.
+- Question 2. 
+- Question 3. 
+- Question 4. 
+- Question 5. 
+- Question 6. 
+- Question 7. 
+- Question 8. 
+- Question 9. 
+- Question 10. 
 - ### Chapter 2: The Visible Computer
 - ### Chapter 3: CPUs
 - ### Chapter 4: RAM
