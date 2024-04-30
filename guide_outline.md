@@ -6,10 +6,11 @@
   - [ ] B. Clean, wrinkle-free T-shirt.
   - [ ] C. Clean, wrinkle-free polo shirt.
   - [ ] D. Clean, pressed jeans.
-    <details><summary>Answer</summary>
+    <details>
+    <summary>Answer</summary>
 
-  A, C. Khaki trousers and a polo shirt trump jeans and a T-shirt every time.
-  
+    A, C. Khaki trousers and a polo shirt trump jeans and a T-shirt every time.
+
     </details>
 
 - Question 2. While manning the help desk, you get a call from a distraught user who says she has a blank screen. What would be a useful follow-up question? (Select two.)
