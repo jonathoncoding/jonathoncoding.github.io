@@ -2,10 +2,10 @@
 ## 220-1101 & 220-1102 
 - ### Chapter 1: Safety and Professionalism
 - Question 1. Which of the following would be most appropriate for the workplace? (Select two.)
-  - A. Clean, pressed khaki trousers.
-  - B. Clean, wrinkle-free T-shirt.
-  - C. Clean, wrinkle-free polo shirt.
-  - D. Clean, pressed jeans.
+  - [ ] A. Clean, pressed khaki trousers.
+  - [ ] B. Clean, wrinkle-free T-shirt.
+  - [ ] C. Clean, wrinkle-free polo shirt.
+  - [ ] D. Clean, pressed jeans.
 - Question 2. While manning the help desk, you get a call from a distraught user who says she has a blank screen. What would be a useful follow-up question? (Select two.)
   - A. Is the computer turned on?
   - B. Is the monitor turned on?.
