@@ -10,8 +10,9 @@
   <summary>Answers</summary>
 
   A, C. Khaki trousers and a polo shirt trump jeans and a T-shirt every time.
-  
+
 </details>
+
 - Question 2. While manning the help desk, you get a call from a distraught user who says she has a blank screen. What would be a useful follow-up question? (Select two.)
   - A. Is the computer turned on?
   - B. Is the monitor turned on?.
