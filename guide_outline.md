@@ -6,8 +6,7 @@
   - [ ] B. Clean, wrinkle-free T-shirt.
   - [ ] C. Clean, wrinkle-free polo shirt.
   - [ ] D. Clean, pressed jeans.
-<details>
-  <summary>Answers</summary>
+<details><summary>Answer</summary>
 
   A, C. Khaki trousers and a polo shirt trump jeans and a T-shirt every time.
 
