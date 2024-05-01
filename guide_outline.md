@@ -156,27 +156,27 @@ Testing.
 
     </details>
 
-- Question 3. ...
-  - [ ] A. ...
-  - [ ] B. ...
-  - [ ] C. ...
-  - [ ] D. ...
+- Question 3. What macOS feature is essentially multiple Desktops?
+  - [ ] A. Charms
+  - [ ] B. Desktop
+  - [ ] C. Mission Control
+  - [ ] D. Spaces
     <details>
     <summary>Answer</summary>
 
-    ...
+    D. <i>Spaces</i> is the term Apple uses for multiple Desktops in macOS.
 
     </details>
 
-- Question 4. ...
-  - [ ] A. ...
-  - [ ] B. ...
-  - [ ] C. ...
-  - [ ] D. ...
+- Question 4. The Linux operating system comes in hundreds of different versions, known as _______.
+  - [ ] A. Desktops
+  - [ ] B. Distros
+  - [ ] C. Dispersions
+  - [ ] D. Domiciles
     <details>
     <summary>Answer</summary>
 
-    ...
+    B. Different versions of Linux are known as distros, short for distributions.
 
     </details>
 
