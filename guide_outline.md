@@ -144,15 +144,15 @@ Testing.
 
     </details>
 
-- Question 2. ...
-  - [ ] A. ...
-  - [ ] B. ...
-  - [ ] C. ...
-  - [ ] D. ...
+- Question 2. Which of the following is the utility used to download apps in Windows?
+  - [ ] A. Play Store
+  - [ ] B. Apple Spaces
+  - [ ] C. Microsoft Store
+  - [ ] D. Windows Store
     <details>
     <summary>Answer</summary>
 
-    ...
+    C. Microsoft Store is used to download apps in Windows.
 
     </details>
 
