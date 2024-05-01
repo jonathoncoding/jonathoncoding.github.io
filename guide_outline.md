@@ -1,4 +1,4 @@
-# CompTIA A+
+# CompTIA A+ Certification All-in-One Exam Guide (Eleventh Edition)
 ## 220-1101 & 220-1102 
 - ### Chapter 1: Safety and Professionalism
 - Question 1. Which of the following would be most appropriate for the workplace? (Select two.)
@@ -62,10 +62,10 @@
     </details>
 
 - Question 6. You are at a customer's workstation to install several software and hardware updates, a process that will take a while and require several reboots of the computer. What should you do about the password to the user's account?
-  - A. Require the customer to sit with you throughout the process so she can type in her password each time.
-  - B. Ask the user to write down her password for you to use.
-  - C. Ask the user to change her password temporarily for you to use.
-  - D. Call your supervisor.
+  - [ ] A. Require the customer to sit with you throughout the process so she can type in her password each time.
+  - [ ] B. Ask the user to write down her password for you to use.
+  - [ ] C. Ask the user to change her password temporarily for you to use.
+  - [ ] D. Call your supervisor.
     <details>
     <summary>Answer</summary>
 
@@ -73,26 +73,54 @@
 
     </details>
 
-- Question 7. 
-  - A. .
-  - B. .
-  - C. .
-  - D. .
-- Question 8. 
-  - A. .
-  - B. .
-  - C. .
-  - D. .
-- Question 9. 
-  - A. .
-  - B. .
-  - C. .
-  - D. .
-- Question 10. 
-  - A. .
-  - B. .
-  - C. .
-  - D. .
+- Question 7. Which of the following is a good practice after completing a troubleshooting call at someone's office?
+  - [ ] A. Follow up with a call within a couple of days to make sure everything is going well with the fixed computer.
+  - [ ] B. Make copies of any passwords you used at the site for future reference.
+  - [ ] C. Document any particularly important people you met for future reference.
+  - [ ] D. Do nothing. Your work is finished there.
+    <details>
+    <summary>Answer</summary>
+
+    A. A simple follow-up builds goodwill and trust. This is a very important step to take after completing a job.
+
+    </details>
+
+- Question 8. Which tool helps you avoid accidental static discharge by keeping you at the same electrical potential as the computer on which you're working?
+  - [ ] A. Anstatic spray.
+  - [ ] B. Antistatic bag.
+  - [ ] C. ESD wrist strap.
+  - [ ] D. Phillips-head screwdriver.
+    <details>
+    <summary>Answer</summary>
+
+    C. An ESD wrist strap keeps you at the same electrical potential as the computer.
+
+    </details>
+
+- Question 9. Once you have ascertained the computer's problem and backed up the critical data, what should you do?
+  - [ ] A. Establish a theory of probable cause.
+  - [ ] B. Start fixing the machine.
+  - [ ] C. Question users more to find out how they caused the problem.
+  - [ ] D. Document.
+    <details>
+    <summary>Answer</summary>
+
+    A. You should establish a theory of probable cause once you have ascertained the problem and backed up data.
+
+    </details>
+
+- Question 10. What should you do after successfully repairing a machine?
+  - [ ] A. Do nothing; your job is done.
+  - [ ] B. Admonish the user for causing so much work for the IT department.
+  - [ ] C. Document your findings.
+  - [ ] D. Lock it down so the user can't cause the same problem again.
+    <details>
+    <summary>Answer</summary>
+
+    C. At the end of a repair you should always document your findings.
+
+    </details>
+
 - ### Chapter 2: The Visible Computer
 - ### Chapter 3: CPUs
 - ### Chapter 4: RAM
