@@ -1,6 +1,8 @@
 # CompTIA A+ Certification All-in-One Exam Guide (Eleventh Edition)
 ## 220-1101 & 220-1102 
 - ### Chapter 1: Safety and Professionalism
+#### Practice questions
+
 - Question 1. Which of the following would be most appropriate for the workplace? (Select two.)
   - [ ] A. Clean, pressed khaki trousers.
   - [ ] B. Clean, wrinkle-free T-shirt.
@@ -122,6 +124,18 @@
     </details>
 
 - ### Chapter 2: The Visible Computer
+- Question 1. ...
+  - [ ] A. ...
+  - [ ] B. ...
+  - [ ] C. ...
+  - [ ] D. ...
+    <details>
+    <summary>Answer</summary>
+
+    ...
+
+    </details>
+
 - ### Chapter 3: CPUs
 - ### Chapter 4: RAM
 - ### Chapter 5: Firmware
