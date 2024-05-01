@@ -128,16 +128,19 @@ Testing.
 
 ### Chapter 2: The Visible Computer
 #### Notes
+Testing.
+
 #### Practice questions
-- Question 1. ...
-  - [ ] A. ...
-  - [ ] B. ...
-  - [ ] C. ...
-  - [ ] D. ...
+
+- Question 1. What is the oldest version of Windows covered on the CompTIA A+ 220-1102 exam?
+  - [ ] A. Windows Server 2016
+  - [ ] B. Windows 8 Enterprise
+  - [ ] C. Windows 10
+  - [ ] D. Windows 11
     <details>
     <summary>Answer</summary>
 
-    ...
+    C. Windows 10 is the oldest version of Windows covered on the CompTIA A+ 220-1102 exam.
 
     </details>
 
